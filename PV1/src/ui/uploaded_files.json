@@ -1,0 +1,59 @@
+[
+    {
+        "name": "config.py",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319779383812034590/config.py?ex=676733d5&is=6765e255&hm=4030bbe4c3ef7b20d4cda4b8a2e8a3769ba4b8b0946c8296569c78b30781ce49&"
+    },
+    {
+        "name": "1.txt",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319779440087142410/1.txt?ex=676733e2&is=6765e262&hm=dac7da69a8e12312039cc7c01e27dd00a404b8cb31bef7232622ab9a771e3c37&"
+    },
+    {
+        "name": "F8-DP-2024-Lank-Martin-thesis.pdf.part1",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319782544518152232/F8-DP-2024-Lank-Martin-thesis.pdf.part1?ex=676736c6&is=6765e546&hm=1728180e4bd086f8b9fcc4a56cdf936f56a3d53e2e8a6886640091a304d9a671&",
+        "is_part": true,
+        "original_name": "F8-DP-2024-Lank-Martin-thesis.pdf",
+        "total_parts": 2
+    },
+    {
+        "name": "F8-DP-2024-Lank-Martin-thesis.pdf.part2",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319782579406114846/F8-DP-2024-Lank-Martin-thesis.pdf.part2?ex=676736cf&is=6765e54f&hm=4f74f1cc7970f2324457306499ce8084f1e716e3b21de7471720f8ef5944f329&",
+        "is_part": true,
+        "original_name": "F8-DP-2024-Lank-Martin-thesis.pdf",
+        "total_parts": 2
+    },
+    {
+        "name": "bot.py",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319785503545098362/bot.py?ex=67673988&is=6765e808&hm=7eb1fcb459954eadfbd26736deb3c0af488f57cb3fd1c06bb539e1113b2401b1&",
+        "is_part": false,
+        "original_name": null,
+        "total_parts": null
+    },
+    {
+        "name": "config.py",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319787029596209242/config.py?ex=67673af4&is=6765e974&hm=ac36fad58eb0496cb04b40aa6f6a361c3b845d8fd726fb7e0c7f88a520a435df&",
+        "is_part": false,
+        "original_name": null,
+        "total_parts": null
+    },
+    {
+        "name": "logger.py",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319790750132862986/logger.py?ex=67673e6b&is=6765eceb&hm=0875e0700a5d6418a65bc6993d8ba43a505fefcc83e360fd921484d69ee7c9cd&",
+        "is_part": false,
+        "original_name": null,
+        "total_parts": null
+    },
+    {
+        "name": "init__.py",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319791965335977994/init__.py?ex=67673f8d&is=6765ee0d&hm=9cf7bb64006b5dd508cdc3f8a7d4ebad7a82dfb83dab13b1b3a64857a44cc9ff&",
+        "is_part": false,
+        "original_name": null,
+        "total_parts": null
+    },
+    {
+        "name": "logger.py",
+        "url": "https://cdn.discordapp.com/attachments/1319713879051206812/1319792476051214466/logger.py?ex=67674006&is=6765ee86&hm=4af62dd6a49f01a98a48cf578aba17005f5bf7c517bf1eca2679c41d96da50e5&",
+        "is_part": false,
+        "original_name": "logger.py",
+        "total_parts": 1
+    }
+]
