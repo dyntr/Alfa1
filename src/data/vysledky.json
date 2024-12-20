@@ -1,0 +1,109 @@
+{
+    "polozky": [
+        {
+            "id": 1,
+            "typ_vypoctu": "kombinace",
+            "sekvencni": {
+                "vysledky": {
+                    "0:(2, 1)": {
+                        "vysledek": 2,
+                        "cas": "0.00196529"
+                    },
+                    "1:(872, 0)": {
+                        "vysledek": 1,
+                        "cas": "0.00011975"
+                    }
+                },
+                "cas_celkem": "0.00208504"
+            },
+            "vlakna": {
+                "vysledky": {
+                    "0:(2, 1)": {
+                        "vysledek": 2,
+                        "cas": "0.00000525"
+                    },
+                    "1:(872, 0)": {
+                        "vysledek": 1,
+                        "cas": "0.00011683"
+                    }
+                },
+                "cas_celkem": "0.00012208"
+            },
+            "procesy": {
+                "vysledky": {
+                    "0:(2, 1)": {
+                        "vysledek": 2,
+                        "cas": "0.00016042"
+                    },
+                    "1:(872, 0)": {
+                        "vysledek": 1,
+                        "cas": "0.00009554"
+                    }
+                },
+                "cas_celkem": "0.23067079"
+            }
+        },
+        {
+            "id": 2,
+            "typ_vypoctu": "faktorial",
+            "sekvencni": {
+                "vysledky": {
+                    "0:10": {
+                        "vysledek": 3628800,
+                        "cas": "0.00004133"
+                    }
+                },
+                "cas_celkem": "0.00004133"
+            },
+            "vlakna": {
+                "vysledky": {
+                    "0:10": {
+                        "vysledek": 3628800,
+                        "cas": "0.00000279"
+                    }
+                },
+                "cas_celkem": "0.00000279"
+            },
+            "procesy": {
+                "vysledky": {
+                    "0:10": {
+                        "vysledek": 3628800,
+                        "cas": "0.00000375"
+                    }
+                },
+                "cas_celkem": "0.24802729"
+            }
+        },
+        {
+            "id": 3,
+            "typ_vypoctu": "faktorial",
+            "sekvencni": {
+                "vysledky": {
+                    "0:3": {
+                        "vysledek": 6,
+                        "cas": "0.00006563"
+                    }
+                },
+                "cas_celkem": "0.00006563"
+            },
+            "vlakna": {
+                "vysledky": {
+                    "0:3": {
+                        "vysledek": 6,
+                        "cas": "0.00000450"
+                    }
+                },
+                "cas_celkem": "0.00000450"
+            },
+            "procesy": {
+                "vysledky": {
+                    "0:3": {
+                        "vysledek": 6,
+                        "cas": "0.00000354"
+                    }
+                },
+                "cas_celkem": "0.24389717"
+            }
+        }
+    ]
+}
